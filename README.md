@@ -2,7 +2,7 @@
 
 I'm a Computer Engineer from Philippines. I make projects focused on Automated Systems, IoT solutions, and Responsive Web Design.
 * 🔭 I’m currently working on Python Projects
-* 🌱 I’m currently learning Web Developement
+* 🌱 I’m currently learning Web Development
 * ⚡ Fun fact: I love playing games and creating things i love
 
 
