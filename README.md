@@ -19,8 +19,8 @@ I'm a Computer Engineer from Philippines. I make projects focused on Automated S
 
 
 ### 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jluertes14&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jluertes14&layout=compact&theme=tokyonight)
 
 
 ### 🤝 Connect with me
